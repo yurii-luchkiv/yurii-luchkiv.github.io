@@ -1,2 +1,2 @@
-# yurii-luchkiv.github.io.
+# yurii-luchkiv.github.io
 @yyluchkiv website
